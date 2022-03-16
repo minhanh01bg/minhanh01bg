@@ -58,7 +58,7 @@
 
 --- 
 ###
-<p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=6&theme=tokyonight&layout=compact" width="350px" alt="My Github Stats" /> 
+<p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=4&theme=tokyonight&layout=compact" width="350px" alt="My Github Stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" width="350px" alt="My Github Stats" />
 </p>
 
