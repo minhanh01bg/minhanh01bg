@@ -1,68 +1,79 @@
 ### Hi there 👋
 
+<style>
+    .double-img {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
 
-<h2 align="center">About me</h2>
-
-
-<h2 align="center">You can reach me at :alien:</h2>
+    .top-langs img {
+        border-radius: 5px;
+    }
+</style>
+### - Languages and Tools...
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
+    <img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    />
+    <img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    /><img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    /><img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    /><img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    /><img
+        src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
+        alt="Twitter"
+        style="vertical-align: top; margin: 4px"
+    />
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="">Github stats :bar_chart:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<!-- <h4 align="">Visitor's count :eyes:</h4>
+
+<p align=""><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> -->
+<div class="double-img">
+    <div class="child-img-one">
+        <h4>Top langs :tongue:</h4>
+        <p class="top-langs">
+            <img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact"
+                alt="AnhellO :: Top Langs"
+            />
+        </p>
+    </div>
+    <div class="child-img-two">
+        <h4>Profile stats :musical_keyboard:</h4>
+        <p class="second-langs">
+            <img
+                src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave"
+                alt="AnhellO :: Profile Stats"
+            />
+        </p>
+    </div>
+</div>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
+    <img
+        src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
+        alt="Synthwave"
+        height="300"
+        width="500"
+    />
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
----
-
-⭐⭐️⭐️⭐️⭐️
+--- ⭐⭐️⭐️⭐️⭐️
