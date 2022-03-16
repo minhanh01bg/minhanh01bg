@@ -50,12 +50,14 @@
 
 --- 
 ###
-<p align="center"> <h2 align="">Github stats :bar_chart:</h2> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=10&theme=tokyonight&layout=compact" alt="My Github Stats" /> </p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=10&theme=tokyonight&layout=compact" alt="My Github Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" />
+</p>
 
 ---
 ###
 
-<p align="center"> <h4>Profile stats :musical_keyboard:</h4> <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p>
+<!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
 <!-- <p align="center">
     <img
         src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
