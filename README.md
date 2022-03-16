@@ -1,5 +1,18 @@
-### Hi there ,I'm Minh Anh👋 
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+### Hi there👋 
+
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+  <br><br>
+  <samp>
+    I'm Minh Anh :wave:
+    <br><br>
+    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    <br><br>
+    I believe in a world where Milkshakes can solve any and all problems :grin:
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+  </samp>
+</p>
 
 ---
 ###
