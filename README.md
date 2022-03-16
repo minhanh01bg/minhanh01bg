@@ -12,7 +12,9 @@
   <img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br><br>
---- 
+
+---
+
 ### Tech & Tools Preference
 
 <img
