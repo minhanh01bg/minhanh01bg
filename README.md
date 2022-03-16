@@ -13,10 +13,10 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
-
----
-###
-
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+<p align="center">
 <a href="https://twitter.com/MinhAnh65616374">
   <img align="left" alt="yumjnan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,6 +29,7 @@
 <a href="https://www.facebook.com/coder.sliverbullet/">
   <img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</p>
 <br>
 
 ---
