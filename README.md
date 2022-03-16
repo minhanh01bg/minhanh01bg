@@ -69,4 +69,4 @@
  
 ---
 
-⭐from [Minh Anh](https://github.com/minhanh01bg)
+⭐ From [Minh Anh](https://github.com/minhanh01bg)
