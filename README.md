@@ -19,8 +19,8 @@
 <!-- <h4 align="">Visitor's count :eyes:</h4>
 
 <p align=""><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> -->
-<div class="double-img">
-    <div class="child-img-one">
+<!-- <div class="double-img"> -->
+<!--     <div class="child-img-one"> -->
         <h4>Top langs :tongue:</h4>
         <p class="top-langs">
             <img
@@ -28,16 +28,15 @@
                 alt="AnhellO :: Top Langs"
             />
         </p>
-    </div>
-    <div class="child-img-two">
+<!--     </div> -->
+<!--     <div class="child-img-two"> -->
         <h4>Profile stats :musical_keyboard:</h4>
         <p class="second-langs">
             <img
                 src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave"
                 alt="AnhellO :: Profile Stats"
             />
-        </p>
-        <p align="center">
+        </p> <p align="center">
             <img
                 src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
                 alt="Synthwave"
@@ -45,8 +44,8 @@
                 width="500"
             />
         </p>
-    </div>
-</div>
+<!--     </div> -->
+<!-- </div> -->
 
 --- 
 ⭐⭐️⭐️⭐️⭐️
