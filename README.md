@@ -14,7 +14,7 @@
   </samp>
 </p>
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+<!--   <i> Let's connect and chat! :incoming_envelope: </i> -->
 
 
 
