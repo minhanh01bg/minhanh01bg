@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<style>
-    .double-img {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
 
-    .top-langs img {
-        border-radius: 5px;
-    }
-</style>
 ### - Languages and Tools...
 
 <p align="center">
