@@ -1,4 +1,6 @@
-### Hi there ,I'm Minh Anh👋 --- ### Tech & Tools Preference
+### Hi there ,I'm Minh Anh👋 
+---
+### Tech & Tools Preference
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img
     src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"
@@ -25,7 +27,8 @@
     src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"
 />
 
---- ###
+--- 
+###
 <h2 align="">Github stats :bar_chart:</h2>
 
 <!-- <h4 align="">Visitor's count :eyes:</h4>
@@ -53,4 +56,5 @@
     />
 </p>
 
---- ⭐⭐️⭐️⭐️⭐️
+---
+⭐⭐️⭐️⭐️⭐️
