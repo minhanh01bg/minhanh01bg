@@ -1,8 +1,11 @@
 ### Hi there ,I'm Minh Anh👋 
----
+--- 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img
+<img
+    src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"
+/>
+<img
     src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"
 />
 <img
@@ -30,22 +33,24 @@
 --- 
 ###
 <h2 align="">Github stats :bar_chart:</h2>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact"
+    alt="AnhellO :: Top Langs"
+/>
+<h4>Profile stats :musical_keyboard:</h4>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave"
+    alt="AnhellO :: Profile Stats"
+/>
 
-<!-- <h4 align="">Visitor's count :eyes:</h4>
-
-<p align=""><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> -->
-<p class="top-langs">
+<p align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact"
-        alt="AnhellO :: Top Langs"
-    />
-</p> h4>Profile stats :musical_keyboard:</h4>
-<p > <img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave"
-        alt="AnhellO :: Profile Stats" /> </p> <p align="center"> <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave"
+        src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
+        alt="Synthwave"
         height="300"
         width="500"
     />
 </p>
 
----
+--- 
 ⭐⭐️⭐️⭐️⭐️
