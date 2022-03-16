@@ -50,7 +50,7 @@
 
 --- 
 ###
-<p align="center"> <h2 align="">Github stats :bar_chart:</h2> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /> </p>
+<p align="center"> <h2 align="">Github stats :bar_chart:</h2> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=10&theme=tokyonight&layout=compact" alt="My Github Stats" /> </p>
 
 ---
 ###
