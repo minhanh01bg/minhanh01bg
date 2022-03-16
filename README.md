@@ -25,6 +25,7 @@
   <a href="https://www.facebook.com/coder.sliverbullet/"><img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/></a>&nbsp; &nbsp;
 </p>
 </p>
+
 ---
 
 ### Tech & Tools Preference
