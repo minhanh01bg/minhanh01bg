@@ -59,8 +59,8 @@
 --- 
 ### Github stats
 <p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=4&layout=compact&theme=shades-of-purple" width="380px" alt="My Github Stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=shades-of-purple" width="380px" alt="My Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=4&layout=compact&theme=radical" width="380px" alt="My Github Stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=radical" width="380px" alt="My Github Stats" />
 </p>
 
 
