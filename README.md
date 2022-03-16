@@ -1,5 +1,10 @@
 ### Hi there ,I'm Minh Anh👋 
- <a href="https://twitter.com/MinhAnh65616374">
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
+---
+###
+
+<a href="https://twitter.com/MinhAnh65616374">
   <img align="left" alt="yumjnan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/minhanh01bg">
