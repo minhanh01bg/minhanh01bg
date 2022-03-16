@@ -55,7 +55,7 @@
 ---
 ###
 
-<p align="center"> <h4>Profile stats :musical_keyboard:</h4> <img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /> </p>
+<p align="center"> <h4>Profile stats :musical_keyboard:</h4> <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p>
 <!-- <p align="center">
     <img
         src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
