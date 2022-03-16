@@ -54,10 +54,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" />
 </p>
 
-<a href="https://codestats.net/users/minhanh01bg">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/minh anh?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="minh anh's Code::Stats history graph" />
 
-</a>
 
 <!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
 <!-- <p align="center">
@@ -72,4 +69,4 @@
  
 ---
 
-⭐⭐️⭐️⭐️⭐️
+⭐from [Minh Anh](https://github.com/minhanh01bg)
