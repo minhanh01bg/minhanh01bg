@@ -11,14 +11,13 @@
 <a href="https://www.facebook.com/coder.sliverbullet/">
   <img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 --- 
 ### Tech & Tools Preference
 
 <img
     src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"
-/>
-<img
-    src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"
+/><img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"
 />
 <img
     src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"
