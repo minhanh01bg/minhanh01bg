@@ -17,18 +17,16 @@
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 <p align="center">
-  <a href="https://twitter.com/MinhAnh65616374">
-    <img align="left" alt="yumjnan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+  <a href="https://twitter.com/MinhAnh65616374"> <img align="left" alt="yumjnan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>&nbsp; &nbsp;
   <a href="https://github.com/minhanh01bg">
     <img align="left" alt="MinhAnh Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
+  </a>&nbsp; &nbsp;
   <a href="https://www.instagram.com/yumjnan/">
     <img align="left" alt="yumjnan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+  </a>&nbsp; &nbsp;
   <a href="https://www.facebook.com/coder.sliverbullet/">
     <img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
+  </a>&nbsp; &nbsp;
 </p>
 <br>
 
