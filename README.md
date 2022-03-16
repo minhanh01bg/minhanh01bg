@@ -59,7 +59,7 @@
 --- 
 ###
 <p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=10&theme=tokyonight&layout=compact" alt="My Github Stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" width="300px" alt="My Github Stats" />
 </p>
 
 
