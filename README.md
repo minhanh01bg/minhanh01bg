@@ -8,6 +8,8 @@
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
+    I don't know AI
+    <br><br>
     I believe in a world where I can solve any and all problems :grin:
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
