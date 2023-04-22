@@ -27,6 +27,7 @@
     <a href="https://www.facebook.com/coder.sliverbullet/"><img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/></a>&nbsp; &nbsp;
   </p>
 </p>
+
 ---
 
 <p align="center">
@@ -59,6 +60,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
+  
 ---
 
 ### Tech & Tools Preference
