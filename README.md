@@ -74,6 +74,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 - stats
 
 ![minhanh01bg's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=transparent)
