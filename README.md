@@ -70,9 +70,13 @@
 
 ---
 
--   WakaTime card
+-   Top Langs
 
-[![minhanh01bg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhanh01bg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg)](https://github.com/anuraghazra/github-readme-stats)
+
+- stats
+
+![minhanh01bg's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=transparent)
 
 <!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
 <!-- <p align="center">
