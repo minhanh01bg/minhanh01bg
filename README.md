@@ -68,7 +68,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=radical" width="380px" alt="My Github Stats" />
 </p>
 
+-   WakaTime card
 
+[![minhanh01bg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhanh01bg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
 <!-- <p align="center">
