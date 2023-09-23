@@ -63,20 +63,20 @@
 ---
 
 ### Github stats
-<p align="center">  
+<!-- <p align="center">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg&langs_count=4&layout=compact&theme=radical" width="380px" alt="My Github Stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=radical" width="380px" alt="My Github Stats" />
 </p>
-
+ -->
 ---
 
--   Top Langs
+- Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhanh01bg)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-- stats
+- Stats
 
 ![minhanh01bg's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=transparent)
 
