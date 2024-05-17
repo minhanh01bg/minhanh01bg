@@ -78,7 +78,7 @@
 
 - Stats
 
-![minhanh01bg's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg\&rank_icon=percentile)
 
 <!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
 <!-- <p align="center">
