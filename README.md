@@ -91,7 +91,7 @@
 </p>
  -->
 
-![](https://github-readme-stats.vercel.app/api?username=minhanh01bg&theme=gotham&hide_border=false&count_private=false&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=minhanh01bg&theme=gotham&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)<br/>
 ---
 
 ⭐ From [Minh Anh](https://github.com/minhanh01bg)
