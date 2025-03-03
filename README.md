@@ -78,17 +78,6 @@
 
 - Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg\&rank_icon=percentile)
-
-<!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=synthwave" alt="My Github Stats" /> </p> -->
-<!-- <p align="center">
-    <img
-        src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif"
-        alt="Synthwave"
-        height="300"
-        width="500"
-    />
-</p>
  -->
 
 [![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhanh01bg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
