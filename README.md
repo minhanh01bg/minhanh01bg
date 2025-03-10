@@ -76,7 +76,7 @@
 
 <br>
 
-[![https://github-readme-stats.vercel.app/api?username=manhdung3010&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ⭐ From [Minh Anh](https://github.com/minhanh01bg)
