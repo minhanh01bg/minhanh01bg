@@ -1,36 +1,3 @@
-### Hi there👋 
-
-<p align="center">
-<!--   <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/> -->
-<!--   <br><br> -->
-  <samp>
-    I'm Minh Anh :wave:
-    <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
-    <br><br>
-    I don't know AI
-    <br><br>
-    I believe in a world where I can solve any and all problems :grin:
-    <br><br>
-    I :heartpulse: Hoang Minh Thuy 
-    <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
-  </samp>
-</p>
-<p align="center"> 
-<!--   <i> Let's connect and chat! :incoming_envelope: </i> -->
-
-
-
-  <p align="center">
-    <a href="https://twitter.com/MinhAnh65616374"> <img align="left" alt="yumjnan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" /></a>&nbsp; &nbsp;
-    <a href="https://github.com/minhanh01bg"><img align="left" alt="MinhAnh Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30"/></a>&nbsp; &nbsp;
-    <a href="https://www.instagram.com/yumjnan/"><img align="left" alt="yumjnan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"/></a>&nbsp; &nbsp; 
-    <a href="https://www.facebook.com/coder.sliverbullet/"><img align="left" alt="Minh Anh Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/></a>&nbsp; &nbsp;
-  </p>
-</p>
-
-### Github stats
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhanh01bg&label=Profile%20views&color=0e75b6&style=flat" alt="minhanh01bg" /> </p>
@@ -39,6 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/minh-anh-vu-a02868194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-anh-vu-a02868194" height="30" width="40" /></a>
+<a href="https://kaggle.com/fancy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fancy" height="30" width="40" /></a>
+<a href="https://fb.com/coder.sliverbullet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder.sliverbullet" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/errorfeeling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="errorfeeling" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,6 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&locale=en" alt="minhanh01bg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhanh01bg&" alt="minhanh01bg" /></p>
-
-
-⭐ From [Minh Anh](https://github.com/minhanh01bg)
