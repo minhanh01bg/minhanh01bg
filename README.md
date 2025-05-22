@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minh-anh-vu-a02868194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-anh-vu-a02868194" height="30" width="40" /></a>
-<a href="https://kaggle.com/fancy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fancy" height="30" width="40" /></a>
+<a href="https://kaggle.com/vminhanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vminhanh" height="30" width="40" /></a>
 <a href="https://fb.com/coder.sliverbullet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder.sliverbullet" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/errorfeeling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="errorfeeling" height="30" width="40" /></a>
 </p>
