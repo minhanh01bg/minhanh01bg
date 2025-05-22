@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate AI engineer from Viet Nam</h3>
 
 ### Hi there👋 
 
