@@ -1,5 +1,25 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
+### Hi there👋 
 
+<p align="center">
+<!--   <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/> -->
+<!--   <br><br> -->
+  <samp>
+    I'm Minh Anh :wave:
+    <br><br>
+    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    <br><br>
+    I don't know AI
+    <br><br>
+    I believe in a world where I can solve any and all problems :grin:
+    <br><br>
+    I :heartpulse: Hoang Minh Thuy 
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+  </samp>
+</p>
+<p align="center"> 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhanh01bg&label=Profile%20views&color=0e75b6&style=flat" alt="minhanh01bg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhanh01bg" alt="minhanh01bg" /></a> </p>
