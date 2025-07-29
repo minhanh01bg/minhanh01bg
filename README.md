@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhanh01bg&show_icons=true&locale=en&layout=compact" alt="minhanh01bg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&locale=en" alt="minhanh01bg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&locale=en&count_private=false&include_all_commits=true" alt="minhanh01bg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhanh01bg&" alt="minhanh01bg" /></p>
