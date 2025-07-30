@@ -23,7 +23,16 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhanh01bg&label=Profile%20views&color=0e75b6&style=flat" alt="minhanh01bg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhanh01bg&&rank=-C,-?" alt="minhanh01bg" /></a> </p>
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=minhanh01bg&theme=flat&column=6&margin-w=10&margin-h=15"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
