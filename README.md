@@ -45,5 +45,5 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhanh01bg&theme=react-light&hide_border=true&bg_color=#ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhanh01bg&hide_border=true&bg_color=#ffffff" alt="Contribution Graph" />
 </div>
