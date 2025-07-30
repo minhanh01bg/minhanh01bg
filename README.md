@@ -41,3 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&locale=en&include_all_commits=true" alt="minhanh01bg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhanh01bg&" alt="minhanh01bg" /></p>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhanh01bg&theme=react-light&hide_border=true" alt="Contribution Graph" />
+</div>
