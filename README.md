@@ -67,7 +67,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhanh01bg&show_icons=true&locale=en&layout=compact" alt="minhanh01bg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true" alt="minhanh01bg" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true](https://github-readme-stats.vercel.app/api?username=minhanh01bg&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats)" alt="minhanh01bg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhanh01bg&" alt="minhanh01bg" /></p>
 
