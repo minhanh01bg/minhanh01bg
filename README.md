@@ -80,5 +80,5 @@
 <details>
     <summary>More Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=holi" alt="My GitHub Time Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=minhanh01bg" alt="My GitHub Time Stats" />
 </details>
