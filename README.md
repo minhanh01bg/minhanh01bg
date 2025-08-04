@@ -76,3 +76,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhanh01bg&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=cccccc&area_opacity=0.3&hide_border=true" alt="Contribution Graph" />
 </div>
+
+<details>
+    <summary>More Stats</summary>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=holi" alt="My GitHub Time Stats" />
+</details>
