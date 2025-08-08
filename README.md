@@ -77,8 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhanh01bg&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=cccccc&area_opacity=0.3&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<details>
-    <summary>More Stats</summary>
-
-  [![wakatime](https://wakatime.com/badge/user/21979770-ad89-4f8f-bbb6-d11eb273bedc.svg)](https://wakatime.com/@21979770-ad89-4f8f-bbb6-d11eb273bedc)
-</details>
+## More Stats
+[![wakatime](https://wakatime.com/badge/user/21979770-ad89-4f8f-bbb6-d11eb273bedc.svg)](https://wakatime.com/@21979770-ad89-4f8f-bbb6-d11eb273bedc)
+[![Minh Anh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=21979770-ad89-4f8f-bbb6-d11eb273bedc)](https://github.com/anuraghazra/github-readme-stats)
