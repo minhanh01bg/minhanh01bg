@@ -1,0 +1,33 @@
+name: 🔄 Auto Refresh GitHub Profile README
+
+# 👇 Thêm dòng này
+permissions:
+  contents: write  # Cho phép ghi vào repo để commit và push
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 11:00 AM (GMT+7)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Append cache-bust string to README.md
+        run: |
+          echo "" >> README.md
+          echo "<!-- last refresh: $(date +'%Y-%m-%d %H:%M:%S') -->" >> README.md
+
+      - name: Commit & Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Cần thiết để push
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Auto refresh README on $(date +'%Y-%m-%d')" || echo "No changes"
+          git push origin main
