@@ -1,6 +1,6 @@
 <h3 align="center">A passionate AI engineer from Viet Nam</h3>
 
-### Hi there👋 
+// ### Hi there👋 
 
 <p align="center">
 <!--   <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/> -->
