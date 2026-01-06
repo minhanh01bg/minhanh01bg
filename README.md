@@ -67,7 +67,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=minhanh01bg&show_icons=true&theme=default" alt="minhanh01bg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhanh01bg&" alt="minhanh01bg" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=minhanh01bg" alt="GitHub Streak" /></a></p>
 
 ## 📈 Contribution Activity
 
