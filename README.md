@@ -21,17 +21,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhanh01bg&label=Profile%20views&color=0e75b6&style=flat" alt="minhanh01bg" /> </p>
 
-## 🏆 GitHub Profile Trophies
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=minhanh01bg&theme=flat&column=6&margin-w=10&margin-h=15&rank=-C,-?"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/minh-anh-vu-a02868194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-anh-vu-a02868194" height="30" width="40" /></a>
@@ -79,47 +68,6 @@
 
 [![Minh Anh's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=21979770-ad89-4f8f-bbb6-d11eb273bedc)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- last refresh: 2026-01-07 04:31:59 -->
-
-<!-- last refresh: 2026-01-08 04:30:59 -->
-
-<!-- last refresh: 2026-01-09 04:31:47 -->
-
-<!-- last refresh: 2026-01-10 04:25:42 -->
-
-<!-- last refresh: 2026-01-11 04:39:42 -->
-
-<!-- last refresh: 2026-01-12 04:41:34 -->
-
-<!-- last refresh: 2026-01-13 04:31:37 -->
-
-<!-- last refresh: 2026-01-14 04:39:13 -->
-
-<!-- last refresh: 2026-01-15 04:32:19 -->
-
-<!-- last refresh: 2026-01-16 04:31:33 -->
-
-<!-- last refresh: 2026-01-17 04:24:09 -->
-
-<!-- last refresh: 2026-01-18 04:34:16 -->
-
-<!-- last refresh: 2026-01-19 04:43:18 -->
-
-<!-- last refresh: 2026-01-20 04:36:22 -->
-
-<!-- last refresh: 2026-01-21 04:36:09 -->
-
-<!-- last refresh: 2026-01-22 04:39:43 -->
-
-<!-- last refresh: 2026-01-23 04:34:15 -->
-
-<!-- last refresh: 2026-01-24 04:27:41 -->
-
-<!-- last refresh: 2026-01-25 04:44:07 -->
-
-<!-- last refresh: 2026-01-26 04:47:58 -->
-
-<!-- last refresh: 2026-01-27 04:38:56 -->
 
 <!-- last refresh: 2026-01-28 04:36:27 -->
 
