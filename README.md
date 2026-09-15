@@ -56,6 +56,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=minhanh01bg&show_icons=true&theme=default" alt="minhanh01bg" /></p>
 
+<!-- https://github-readme-stats-fast.vercel.app/api?username=minhanh01bg&show_icons=true&theme=default&count_private=true&include_all_commits=true -->
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=minhanh01bg" alt="GitHub Streak" /></p>
 
 ## 📈 Contribution Activity
